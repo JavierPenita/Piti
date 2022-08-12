@@ -30,10 +30,6 @@ interface IERC20{
     //event Approval(address indexed owner, address indexed emisor, uint256 value);
 }
 
-
-//adress 1  0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
-//adress 2 0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2
-// dir contrato 0x0CB2F9b22AF804E12BE6f2f13D06fc53eD48a7B0
 //funciones del token piti
 contract PITI is IERC20{
 
